@@ -1,2 +1,3 @@
-# Data--Analysis--Dashboard---Power-BI
-I developed a comprehensive project in Power BI, Creating multiple dashboards to analyze the data. this process involved several stages, including data cleaning, data visualization.
+# Airline Traffic Analysis(Interactive Dashboard creation using Power BI.)
+## Project objective:
+To analyze airline traffic by tracking the number of departures, arrivals, and takeoffs across various days, months, and airports to identify traffic patterns and optimize scheduling using interactive dashboards.
