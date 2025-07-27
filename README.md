@@ -21,5 +21,7 @@ To analyze airline traffic by tracking the number of departures, arrivals, and t
 - Upload the data in Power BI desktop and transform the data, ready to use.
 
 ## Dashboard
+<img width="632" height="344" alt="Airlines Dashboard 1" src="https://github.com/user-attachments/assets/f7a79eef-251b-4325-a3b6-e2980aa76833" />
+<img width="634" height="344" alt="Airlines Dashboard 2" src="https://github.com/user-attachments/assets/13732906-1daa-4f05-99f9-00863e08874a" />
 
 
