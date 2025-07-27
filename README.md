@@ -20,3 +20,6 @@ To analyze airline traffic by tracking the number of departures, arrivals, and t
 - Made Airline traffic data is consistent and clean with respect to data type, data format ad values used.
 - Upload the data in Power BI desktop and transform the data, ready to use.
 
+## Dashboard
+
+
